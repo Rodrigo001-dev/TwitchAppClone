@@ -20,6 +20,6 @@ This project was developed with the following technology:
 - [React Native](https://facebook.github.io/react-native/)
 - [Expo](https://expo.io/)
 
-Demonstração/Demonstration
+## Demonstração/Demonstration
 
 ![Gif](https://github.com/Rodrigo001-de/TwitchAppClone/blob/master/Twitch.gif)
