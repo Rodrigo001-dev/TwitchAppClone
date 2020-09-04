@@ -22,4 +22,4 @@ This project was developed with the following technology:
 
 Demonstração/Demonstration
 
-![Gif]()
+![Gif](https://github.com/Rodrigo001-de/TwitchAppClone/blob/master/Twitch.gif)
